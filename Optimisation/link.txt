@@ -1,0 +1,11 @@
+BackProp:
+1.http://wwwold.ece.utep.edu/research/webfuzzy/docs/kk-thesis/kk-thesis-html/node22.kk-thesis-html
+
+RmsProp:
+1.AndrewNg Youtube
+
+Sgd:
+1.Momentum + nesterov (youtube)
+
+Adam:
+1.AndrewNg - Youtube

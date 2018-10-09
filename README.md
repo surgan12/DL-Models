@@ -1,2 +1,2 @@
 # DL-Models
-Deep Learning repo
+Learning DL the torch way ..
